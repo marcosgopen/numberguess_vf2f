@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/marcosgopen/numberguess_vf2f
+  ref: main
+deploy:
+  replicas: 1
